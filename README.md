@@ -1,7 +1,5 @@
 Hi, I'm Umut.
-Trying to learn how AI works and how to build things with it.
+Indie developer building Swift-based iOS apps with Supabase, CoreML, and AI-first features. 
 Interested in:
-- phyton
-- sql
-- dl/ml
-- llms and ai models
+- Swift
+- PostgreSQL
